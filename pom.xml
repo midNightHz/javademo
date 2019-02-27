@@ -43,4 +43,5 @@
 	
 <modules>
     <module>collectiondemo</module>
+    <module>proxy</module>
   </modules></project>
